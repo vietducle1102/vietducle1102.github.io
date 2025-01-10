@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-description: A list of the courses that I taught
+description: A list of the courses that I taught. For more information, please click on each individual course.
 nav: true
 nav_order: 3
 display_categories: [Undergraduate, Graduate]

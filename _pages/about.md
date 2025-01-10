@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a fourth year PhD student at [Wayne State University](https://wayne.edu), working under the supervision of [Prof. Boris S. Mordukhovich](https://borismordukhovich.com/) from the Mathematics Department and [Dr. Pham Duy Khanh](https://sites.google.com/site/khanhpd182/) from Ho Chi Minh City University of Education. The topics of my research include:
+I am currently a fourth year PhD student at [Wayne State University](https://wayne.edu), working under the supervision of [Prof. Boris S. Mordukhovich](https://borismordukhovich.com/) from the Mathematics Department and [Prof. Pham Duy Khanh](https://sites.google.com/site/khanhpd182/) from Ho Chi Minh City University of Education. The topics of my research include:
 
 - Variational Analysis
 - Optimization

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Difference Equation and Matrix Algebra
+title: Differential Equation and Matrix Algebra
 description: 
 img: assets/img/courses/de.jpg
 importance: 4
 category: Undergraduate
-related_publications: true
+related_publications: false
 ---
 
 Differential equations and applications; basic operations of matrices from linear algebra.

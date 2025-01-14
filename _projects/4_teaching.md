@@ -5,7 +5,7 @@ description:
 img: assets/img/courses/stats.jpg
 importance: 5
 category: Undergraduate
-related_publications: true
+related_publications: false
 ---
 
 The content of this course includes descriptive statistics, correlation and regression, notions in probability, binomial and normal distributions, testing hypothesis.

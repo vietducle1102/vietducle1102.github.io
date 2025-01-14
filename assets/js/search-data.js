@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "People",
-          description: "members of the lab or group",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -420,8 +420,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_teaching/";
-            },},{id: "projects-difference-equation-and-matrix-algebra",
-          title: 'Difference Equation and Matrix Algebra',
+            },},{id: "projects-differential-equation-and-matrix-algebra",
+          title: 'Differential Equation and Matrix Algebra',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_teaching/";

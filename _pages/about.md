@@ -22,3 +22,10 @@ I am currently a fourth year PhD student at [Wayne State University](https://way
 - Optimization
 
 and their applications in other disciplines. My contact information can be found at the bottom of this page.
+
+<div style="position: fixed; bottom: 0; right: 0; width: 30%; text-align: left; z-index: 0">
+  <div style="width: 150px; height: 250px; margin: 0 auto; overflow: hidden;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=dIJflz2ydO648u_HI3geAq-DzkF0Myiqi5cu8bRDw8w"></script>
+  </div>
+</div>
+

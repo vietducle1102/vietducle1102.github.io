@@ -114,7 +114,7 @@ nav_order: 6
     <div class="container">
         <div class="newbagest">Undergraduate</div>
         <div class="content">
-            Ton Gia Phu, Ho Chi Minh City University of Education  (2024/6 - )<br>
+            Ton Gia Phu, Ho Chi Minh City University of Education  (2024/6 - 2025/7)<br>
             Thesis: Generalized Mean Value Theorems and Applications (co-supervised with Prof. Pham Duy Khanh)
         </div>
     </div> 

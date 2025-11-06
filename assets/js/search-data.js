@@ -400,7 +400,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-college-algebra",
+          section: "News",},{id: "projects-theory-of-optimization",
+          title: 'Theory of Optimization',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_teaching-g/";
+            },},{id: "projects-college-algebra",
           title: 'College Algebra',
           description: "",
           section: "Projects",handler: () => {
